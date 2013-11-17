@@ -1,0 +1,7 @@
+";\f[6|Man6Villager]\s[6]\x[85]This is a quick test map
+so you have some degree of
+reference to work from.|\s[0]Move forward a bit, we need
+to show more text commands.|\m[6|5]
+Bit more.|\s[5]\x[85]Hmph.|\s[-2]\m[5|4]\s[4]\x[85]Anyway, you should also check the
+/Data/Text/ folder to see how
+text is generally handled.

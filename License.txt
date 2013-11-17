@@ -1,0 +1,78 @@
+﻿FEXP ©2011 www.bwdyeti.com 
+Fire Emblem © 1990-2009 Nintendo / INTELLIGENT SYSTEMS. Fire Emblem and Nintendo DS are trademarks of Nintendo.
+RPGMaker ©2007 ENTERBRAIN,INC./YOJI OJIMA and ©2007, Xiph.Org Foundation. 
+Ruby ©1993-2003 Yukihiro Matsumoto All Rights Reserved.
+License for Scintilla and SciTE ©1998-2003 by Neil Hodgson All Rights Reserved.
+FMOD © 2001-2011 Firelight Technologies Pty, Ltd. All rights reserved.
+
+
+
+----------------------
+    SCRIPT CREDITS
+----------------------
+mechacrash: Resolution script
+Pathfinding by Eivien
+Tileset Change by Ryethe
+Image Fonts by Paradox (Elijah von Bose)
+Database Limit Breaker by Woratana
+Reset Prevention by Zeriab
+FModEx Audio: Hiretsukan, Cowlol
+RGSS2 in RMXP: Dargor
+Tilemap rewrite: poccil
+
+Editing Ruby objects in C dlls
+ Strings: ERZENGEL
+ Bitmaps: poccil
+
+----------------------
+    OTHER CREDITS
+----------------------
+Hextator, Nintenlord: making it easier to hack FE
+
+
+
+FEXP uses RPG Maker XP.
+Read more: http://www.rpgmakerweb.com/
+
+
+The FEXP engine (source code and data files) and game assets not specified below are
+licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.
+( http://creativecommons.org/licenses/by-nc/3.0/ )
+
+The following graphics files:
+\Graphics\Animations\Pirate0-Axe.png
+\Graphics\Animations\Pirate0-ThrowAxe.png
+\Graphics\Animations\Thief0-Sword.png
+\Graphics\Animations\Swordmaster0-Sword.png
+\Graphics\Battlers\Pirate0.png
+\Graphics\Battlers\Thief0.png
+are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+( http://creativecommons.org/licenses/by-nc-sa/3.0/ )
+
+The following graphics files:
+\Graphics\Animations\Halberdier0-Lance.png
+\Graphics\Animations\Astra.png
+\Graphics\Animations\Luna.png
+\Graphics\Animations\Sol.png
+\Graphics\Battlers\Halberdier0.png
+\Graphics\Characters\MapHalberdierM.png
+\Graphics\Characters\MapHalberdierM_move.png
+are licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+( http://creativecommons.org/licenses/by-nc-nd/3.0/ )
+
+
+
+This product is distributed without any warranty.
+
+Access to the details of the licence conditions are avilable under the links provided. Copies of the Creative Commons licenses can also be obtained by sending a letter to:
+
+Creative Commons
+444 Castro Street, Suite 900
+Mountain View
+California, 94041
+USA
+
+
+
+For inquiries concerning these terms please contact:
+mail@bwdyeti.com

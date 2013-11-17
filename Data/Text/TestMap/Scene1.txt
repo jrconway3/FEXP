@@ -1,0 +1,26 @@
+# Face
+\f[6|Man6Villager]
+
+# Man
+\s[6]\x[85]
+This is a quick test map\n
+so you have some degree of\n
+reference to work from.|
+# Offscreen left
+\s[0]
+Move forward a bit, we need\n
+to show more text commands.|
+# Move Man
+\m[6|5]
+# Offscreen left
+\nBit more.|
+# Man
+\s[5]\x[85]
+Hmph.|
+# Move Man
+\s[-2]\m[5|4]
+# Man
+\s[4]\x[85]
+Anyway, you should also check the\n
+/Data/Text/ folder to see how\n
+text is generally handled.

@@ -1,0 +1,60 @@
+New Updates by JaidynReiman
+
+1.5.0 - Nov 16 2013
+- Class listings better organized and renamed.
+-- Classes are now organized in the DB by Tier, with some extra spaces for new classes if desired.
+-- All mage classes are based on Radiant Dawn/Geneology; Fire Mage, Light Mage, Dark Mage, etc.
+-- All sage classes similar to mage classes except for Dark; Dark is Sorcerer/Enchantress.
+-- Cleric classes now named "(High) Priest(ess)" instead of Cleric and Bishop.
+- Numerous new classes added.
+-- Lord Classes from The Sacred Stones.
+--- The original colors are not available yet; only our recolors being used.
+-- Split Mages/Sages into separate classes like Tellius games with own recolors.
+-- Split Knights into separate classes like Tellius games.
+--- Sword and Lance Knights only at this point; Axe Knights still coming.
+-- Split Cavaliers into separate classes like Tellius games.
+--- Axes, Bows, and Swords added (not all animated yet).
+--- Going to add Magic and Staff.
+--- Currently only male Axe and Bow Cavaliers are available.
+-- New gun-toting Grenadier class.
+--- Only female at this time; male to come later. No map sprite yet either.
+- Female equivalent sprites added for several classes.
+-- Female Cavalier sprites (map sprites new; battle sprites filled in).
+-- Female Mercenary map sprites (female Mercenary animations still in progress).
+-- Female Light Mage (new; based on Lucius) and Dark Mage (filled in).
+-- Female Soldier map sprites (animations won't come for a while).
+-- Filled in female Thief and Assassin map sprites.
+-- Female Berserker map sprites.
+--- Yes, you heard me right, I created a female BERSERKER.
+--- Just so happens that said female Berserker is hulking like the default Berserkers.
+--- Recolored from Hawkeye.
+- New weapons added from outside GBA games.
+-- Ability to more easily change weapon listings (not fully implemented).
+-- Daggers and Guns added (no separate icons for them yet or separate sprites for Daggers).
+-- Poleaxes and Greatlances added (no separate sprites or icons for them yet, just added to database).
+-- Water, Ice, and Black magic added (latter two are unique to specific characters).
+-- Wind was removed as we won't be using it, but I'll add Wind back in for people who will.
+- New options from non-GBA games.
+-- Added option to split Str and Mag; this can be TOGGLED and can be turned off.
+--- Not fully implemented yet; it works for the most part, but some interfaces haven't been updated.
+--- Not fully tested on everything; Magic Weapons haven't been tested yet either.
+-- Added Supports from outside GBA games.
+--- Again, not fully implemented yet. I just created the listings and the icon sprites.
+- Added new panoramas.
+-- Not all have been resized just yet; only a few. Added all GBA panoramas, though.
+- Added method containing the ability to reset current turn; useful for scripted events.
+
+
+ 
+
+Old Updates by BwdYeti
+
+1.0.1 - Aug 22 2011
+- Added a new map to show some of the added features/how to do things that weren't explained yet
+-- Chest and Door event examples given, and events that activate x turns after a door opens
+- Reinforcements can be made bosses/can be set to drop their equipment; call $game_map.add_boss or $game_map.add_drop before your add_unit script call
+- Talk events work more properly now, and can run full event controls; Test Map 2 has an example of how to use one for recruitment
+- The main player character can be set/works with autocursor and the Data screen. Use $game_system.allied_leader_id = <actor_id> to set the id manually, otherwise it will use the first found actor in FE_Confid::MAIN_CHARACTER
+
+1.0.0 - Jul 28 2011
+-Initial Release
