@@ -1,6 +1,14 @@
 New Updates by JaidynReiman
 
-1.5.0 - Nov 16 2013
+1.3.2 - Nov 18 2013
+- Fixed Statistics on Unit Menu With Magic Stat Enabled
+- Added New Tiles to Village 1 Tileset
+- Added Demo Configuration Options to Scripts
+- Fixed Max Weapon Levels on Tier 2 Unique/Infantry Classes
+- Fixed Equippable Items on Tier 2 Unique/Infantry Classes
+- Removed Additional Special Classes I Forgot to Remove before.
+
+1.3.0 - Nov 16 2013
 - Class listings better organized and renamed.
 -- Classes are now organized in the DB by Tier, with some extra spaces for new classes if desired.
 -- All mage classes are based on Radiant Dawn/Geneology; Fire Mage, Light Mage, Dark Mage, etc.
