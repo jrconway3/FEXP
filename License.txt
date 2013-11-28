@@ -1,10 +1,19 @@
-﻿FEXP ©2011 www.bwdyeti.com 
+FEXP ©2011 www.bwdyeti.com 
 Fire Emblem © 1990-2009 Nintendo / INTELLIGENT SYSTEMS. Fire Emblem and Nintendo DS are trademarks of Nintendo.
 RPGMaker ©2007 ENTERBRAIN,INC./YOJI OJIMA and ©2007, Xiph.Org Foundation. 
 Ruby ©1993-2003 Yukihiro Matsumoto All Rights Reserved.
 License for Scintilla and SciTE ©1998-2003 by Neil Hodgson All Rights Reserved.
 FMOD © 2001-2011 Firelight Technologies Pty, Ltd. All rights reserved.
 
+
+----------------------
+   FEXP 2.0 CREDITS
+----------------------
+By JaidynReiman:
+Str/Mag Split Toggle
+Custom Weapon Type Options
+Demo Config Options
+Find Unit and Talk AI Mission
 
 
 ----------------------
@@ -23,6 +32,7 @@ Tilemap rewrite: poccil
 Editing Ruby objects in C dlls
  Strings: ERZENGEL
  Bitmaps: poccil
+
 
 ----------------------
     OTHER CREDITS
@@ -43,9 +53,13 @@ The following graphics files:
 \Graphics\Animations\Pirate0-Axe.png
 \Graphics\Animations\Pirate0-ThrowAxe.png
 \Graphics\Animations\Thief0-Sword.png
+\Graphics\Animations\Thief0-Dagger.png
+\Graphics\Animations\Thief1-Sword.png
+\Graphics\Animations\Thief1-Dagger.png
 \Graphics\Animations\Swordmaster0-Sword.png
 \Graphics\Battlers\Pirate0.png
 \Graphics\Battlers\Thief0.png
+\Graphics\Battlers\Thief1.png
 are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 ( http://creativecommons.org/licenses/by-nc-sa/3.0/ )
 
